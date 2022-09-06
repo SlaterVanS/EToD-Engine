@@ -5,7 +5,6 @@ Intermediates/
 
 # ETOD files
 *.log
-*.ttf
 **.sln
 *.sln
 
@@ -18,7 +17,6 @@ Intermediates/
 **.csproj
 **.user
 **.json
-**.ttf
 *.sln
 
 # Directories
