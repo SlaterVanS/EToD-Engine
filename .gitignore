@@ -1,0 +1,27 @@
+# Binaries
+**/bin/
+bin-int/
+Intermediates/
+
+# ETOD files
+*.log
+*.ttf
+**.sln
+*.sln
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
+**.user
+**.json
+**.ttf
+*.sln
+
+# Directories
+ETOD/vendor/VulkanSDK
+EToD-Editor/assets/cache
+scripts/__pycache__
